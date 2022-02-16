@@ -1,0 +1,2 @@
+- name: Github Release To Discord
+  uses: LeGitHubDeTai/github-to-discord@v1.5.0
